@@ -9,7 +9,7 @@ RESEARCH ARTICLE USED:
 Enhanced k-means clustering algorithm using red black tree and min-heap
 - Article in International Journal of Innovation and Technology Management · January 2011
 - BY THE AUTHORS: Rajeev Kumar, Rajeshwar Puran and Joydip Dhar
-- 
+
 ALGORITHM USED: Enhanced K-means Clustering Algorithm
 
 INTRODUCTION TO THE ALGORITHM:
