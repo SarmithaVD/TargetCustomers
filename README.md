@@ -3,7 +3,6 @@ MALL CUSTOMER SEGREGATION
 
 TREE USED: Red-black Tree
 
-
 REFERENCE USED: This whole package is based on a research paper
 
 RESEARCH ARTICLE USED:
@@ -12,8 +11,8 @@ Enhanced k-means clustering algorithm using red black tree and min-heap
 - BY THE AUTHORS: Rajeev Kumar, Rajeshwar Puran and Joydip Dhar
 
 ALGORITHM USED: Enhanced K-means Clustering Algorithm
-
 INTRODUCTION TO THE ALGORITHM:
+
 Fast and high quality clustering is one of the most important tasks in the modern era of
 information processing. With the huge amount of available data and with an aim to create better
 quality clusters, scores of algorithms having quality-complexity trade-offs have been proposed.
